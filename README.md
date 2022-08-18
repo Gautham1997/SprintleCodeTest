@@ -52,3 +52,5 @@ jsonwebtoken (for web tokens and sessions)
 USING BROWSER
 
 Firefox above 102th version.
+
+
