@@ -54,3 +54,26 @@ USING BROWSER
 Firefox above 102th version.
 
 
+Note: You need to have Node.Js installed in your Local Machine 
+Step 1) Clone Gautham1997/client repository.
+Step 2) Clone Gautham1997/server repository.
+Step 3) Open clienr cloned Directory in Command Prompt and run the following command (It will install all the Dependencies needed to run):
+npm i
+Step 4) Once all the dependencies are successfully installed, Run the following Command:
+npm start
+Step 5) Once the above steps are done you should get the message:
+You can now view client in the browser.
+  Local:            http://localhost:3000 
+  webpack compiled successfully
+Step 6) Open Browser and go to http://localhost:3000
+Step 7) Open server Directory in Command Prompt and run the following command:
+npm i
+Step 8) Next Run the following Command:
+npm start
+Step 9) Once the Above steps are completed successfully you should get the message:
+Server Running Successfully on port: 5000
+And comment section is available inside the  single post.
+If any Network issue check mongo db IP
+
+
+
