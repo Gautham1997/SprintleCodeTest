@@ -1,0 +1,71 @@
+.navbar {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+  background: #fff !important;
+  margin: 10px !important;
+  border-radius: 10px !important;
+}
+
+.profileBtn .userIcon {
+  height: 25px !important;
+  width: 25px !important;
+}
+
+.navbar a {
+  font-family: cursive !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  color: rgb(121, 93, 93) !important;
+  margin: 5px !important;
+  text-decoration: none !important;
+}
+
+.navbar a:hover {
+  color: rgb(58, 48, 48) !important;
+  transition: 0.5s !important;
+}
+
+.navbar-toggler,
+.navbar-toggler-icon {
+  color: rgba(146, 128, 128, 0.733) !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.navbar .mainlogo {
+  font-family: cursive !important;
+  color: rgb(199, 115, 36) !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  animation: flicker 1.5s infinite alternate !important;
+}
+
+.mainlogo span {
+  font-family: cursive !important;
+  color: rgb(96, 145, 219) !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  animation: flicker 1.5s infinite alternate !important;
+}
+
+.mainlogo .spanOne {
+  font-family: cursive !important;
+  color: rgb(199, 115, 36) !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  animation: flicker 1.5s infinite alternate !important;
+}
+
+.mainlogo .main_logo_img {
+  margin-right: 5px !important;
+  width: 50px;
+  height: 40px;
+}

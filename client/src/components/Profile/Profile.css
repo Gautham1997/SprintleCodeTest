@@ -1,0 +1,17 @@
+.main {
+  margin-top: 150px !important;
+  margin-bottom: 150px !important;
+  background: #fff !important;
+  border-radius: 10px !important;
+  padding: 30px;
+  box-shadow: #0000007d 0px 5px 15px !important;
+}
+
+p {
+  text-align: left;
+  font-size: 14px;
+}
+
+.logoutBtn {
+  background-color: #3c5898 !important;
+}

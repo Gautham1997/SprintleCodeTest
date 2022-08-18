@@ -1,0 +1,17 @@
+.footer {
+  height: 3rem;
+  margin-top: auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+  background: #fff !important;
+  border-radius: 10px !important;
+  margin: 10px !important;
+  width: 98% !important;
+}
+
+.footer a {
+  line-height: 3rem;
+  color: rgb(41, 101, 190) !important;
+  text-decoration: none;
+  font-weight: 500;
+  font-family: cursive !important;
+}

@@ -1,0 +1,35 @@
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(252, 249, 249) !important;
+}
+
+.btn,
+input {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.btn,
+input,
+.btn:active,
+input:active,
+input:focus,
+.btn:focus {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.darkTheme {
+  background: #000 !important;
+  color: #fff !important;
+}

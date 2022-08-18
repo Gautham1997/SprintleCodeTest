@@ -1,0 +1,22 @@
+.error h1{
+    font-weight: bolder;
+    font-size: 30px;
+    color:rgb(115, 125, 221)
+}
+
+.error a {
+    padding: 20px;
+    background:  rgb(67, 74, 175);
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+}
+.error h1 span {
+ color:rgb(67, 74, 175);
+}
+
+.error a i{
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 10px;
+}
